@@ -2,4 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 It creates the location for the repository.
 Without it, the repository does not exist for versioning.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is an interim location used prior to committing code/files to the repository whereas the working directory is the local version of code/file.
+It allows for not only creation of new files, but new paths which can grow the overall functionality of whatever is being worked.
+
+
 
