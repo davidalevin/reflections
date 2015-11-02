@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+It identified the differences in an easy to read manner so I did not have to eyeball both files line by line.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+You can use the versions to see how coding style evolved and was made more efficient over time.
+The code or code style can be re-used in other projects.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Pro - There are limited versions, and only when you requested them, so less filtering to see when affecting changes were made.
+
+Con - If you forget to save a version, the program shuts down or the computer crashes, you will lose changes if they are not made in a local program that auto-saves.
+It's best to use an auto-saving local program along with a version control system like GIT or SVN.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+This is due to the type of files.
+In Google Docs and other such systems the files are static pages like word processing, images, spreadsheets, etc.
+
+In Git and other systems like SVN the files are interrelated and the changes should to be applied together else functionality updated may not work as expected or not at all.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log allows you to see when the changes were made and if --stat is used, how many changes (lines added or deleted)
+git diff allows you to see what exactly was changed over time between different versions
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Because you can go back and see when and where the code was broken to easily repair the issue.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I have multiple projects in various languages that I would like to store here.
+Building maps with dropdowns and customizations
+Android apps
