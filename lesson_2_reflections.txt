@@ -6,5 +6,18 @@ How is the staging area different from the working directory and the repository?
 The staging area is an interim location used prior to committing code/files to the repository whereas the working directory is the local version of code/file.
 It allows for not only creation of new files, but new paths which can grow the overall functionality of whatever is being worked.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Add each update via GIT and then commit each update separately.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+As with the example, for games making variations (alternate universe play)
+Changing color schemes or over CSS for a website
+Changing datasets that pull into web development or games
+Testing with new versions of Java or other languages
+Testing with third party code
+
+How do the diagrams help you visualize the branch structure?
+It's logical.  You know what you've done.  What will work or not.
+What is branching into a different logical idea.
 
 
