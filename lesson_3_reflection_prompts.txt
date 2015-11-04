@@ -3,6 +3,7 @@ local?
 
 When multiple users need to make updates.
 When you are not working on 1 fixed device.
+Addition to show how to use pull from Guthub.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
