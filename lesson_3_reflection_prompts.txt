@@ -8,7 +8,7 @@ Addition to show how to use pull from Guthub.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Changes on Github due to muliple users, changes from multiple devices, etc.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
