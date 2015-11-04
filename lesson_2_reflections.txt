@@ -20,4 +20,7 @@ How do the diagrams help you visualize the branch structure?
 It's logical.  You know what you've done.  What will work or not.
 What is branching into a different logical idea.
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros - Easy to see modifications with labels displaying each merged branch
+Cons - Merging of same data which then much be deleted.
+Addition of some code that one user had removed, but the other updated with changes.
