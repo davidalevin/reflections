@@ -20,7 +20,7 @@ Branch is an added path on a repository which can have differences from the mast
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+So you know if there have been any changes done outside of the local version of the repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
