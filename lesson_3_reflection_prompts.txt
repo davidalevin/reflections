@@ -33,4 +33,5 @@ Con - If communication is not possible, others may overwrite due to time constra
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+To test out different ideas either for yourself or for collaboration with others.
+I don't see much positive benefit of only having one branch unless all logic has been sussed out among all collaborators prior to implementation into a repository.
