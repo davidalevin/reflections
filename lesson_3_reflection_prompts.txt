@@ -25,7 +25,10 @@ So you know if there have been any changes done outside of the local version of 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Save to a shared location (SharePoint, physical or cloud based server)
+Face to face, via telephone, email other electronic means of communication.
+Pro - Talking about it first helps others to understand why the change is being made rather than them reviewing and then having to ask why the change is being done via Github.
+Con - If communication is not possible, others may overwrite due to time constraints rather than waiting for responses.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
